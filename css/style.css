@@ -184,13 +184,13 @@ main {
 @media screen and (max-width:767px) {
   .top-picture {
     padding-top: 120%;
-    background: url(/img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) center center/cover no-repeat;
+    background: url(../img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) center center/cover no-repeat;
   }
 }
 @media screen and (min-width:768px) {
   .top-picture {
     padding-top: 55%;
-    background: url(/img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) top right/82.5% no-repeat;
+    background: url(../img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) top right/82.5% no-repeat;
   }
 }
 
@@ -353,13 +353,13 @@ main {
 }
 @media screen and (max-width:767px) {
   .about {
-    background: url(/img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center/cover;
+    background: url(../img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center/cover;
     padding: 176px 0 52px;
   }
 }
 @media screen and (min-width:768px) {
   .about {
-    background: url(/img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center/cover;
+    background: url(../img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center/cover;
   }
 }
 .about::before {
@@ -647,7 +647,7 @@ main {
 }
 
 .contact {
-  background: url(/img/annie-spratt-s1N_aVIviqA-unsplash.jpg) center center/cover;
+  background: url(../img/annie-spratt-s1N_aVIviqA-unsplash.jpg) center center/cover;
   background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: lighten;
   margin-top: 225px;
