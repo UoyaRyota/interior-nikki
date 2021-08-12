@@ -204,11 +204,11 @@ main{
 .top-picture{
   @include mq(sm) {
     padding-top: 120%;
-    background: url(/img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) center center/ cover no-repeat;
+    background: url(./img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) center center/ cover no-repeat;
   }
   @include mq(md) {
     padding-top: 55%;
-    background: url(/img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) top right / 82.5% no-repeat;
+    background: url(./img/vinicius-amnx-amano-17NCG_wOkMY-unsplash.jpg) top right / 82.5% no-repeat;
   }
 }
 
@@ -354,11 +354,11 @@ main{
   position: relative;
   padding: 120px 0;
   @include mq(sm) {
-    background: url(/img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center / cover;
+    background: url(./img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center / cover;
     padding: 176px 0 52px;
   }
   @include mq(md) {
-    background: url(/img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center / cover;
+    background: url(./img/oleg-laptev-hwu-uFaXzOU-unsplash.jpg) center center / cover;
   }
   &::before{
     content: "";
@@ -610,7 +610,7 @@ main{
 }
 
 .contact{
-  background: url(/img/annie-spratt-s1N_aVIviqA-unsplash.jpg) center center /cover;
+  background: url(./img/annie-spratt-s1N_aVIviqA-unsplash.jpg) center center /cover;
   background-color:rgba(255,255,255,0.8);
   background-blend-mode:lighten;
   margin-top: 225px;
